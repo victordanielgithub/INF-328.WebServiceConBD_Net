@@ -1,0 +1,5 @@
+c:\users\oriana\documents\visual studio 2012\Projects\WSAlumnoConBD\WSAlumnoConBD\bin\WSAlumnoConBD.dll
+c:\users\oriana\documents\visual studio 2012\Projects\WSAlumnoConBD\WSAlumnoConBD\bin\WSAlumnoConBD.pdb
+c:\users\oriana\documents\visual studio 2012\Projects\WSAlumnoConBD\WSAlumnoConBD\obj\Debug\WSAlumnoConBD.csprojResolveAssemblyReference.cache
+c:\users\oriana\documents\visual studio 2012\Projects\WSAlumnoConBD\WSAlumnoConBD\obj\Debug\WSAlumnoConBD.dll
+c:\users\oriana\documents\visual studio 2012\Projects\WSAlumnoConBD\WSAlumnoConBD\obj\Debug\WSAlumnoConBD.pdb
